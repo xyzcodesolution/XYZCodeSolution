@@ -1,5 +1,5 @@
-#  | React | Next | Vue | Laravel | Node.js | Figma | Three.js | 3D | UX/UI
-## Hi, there! 👋
+#  React | Next | Vue | Laravel | Node.js | Figma | Three.js | 3D | UX/UI
+
 
 ### 💻Tech Stack
 <p align="center">
