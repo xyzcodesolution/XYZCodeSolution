@@ -10,11 +10,6 @@
 <hr>
 
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=saamirbinbadri&column=8)](https://github-profile-trophy.vercel.app/?username=saamirbinbadri&column=8)
-
- <br>
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
