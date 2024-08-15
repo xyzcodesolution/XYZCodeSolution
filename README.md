@@ -1,5 +1,5 @@
-#  Full Stack Developer | Django | React | Node.js | Vue | Laravel
-## Hi, I am Saamir Bin Badri! 👋
+#  | React | Next | Vue | Laravel | Node.js | Figma | Three.js | 3D | UX/UI
+## Hi, there! 👋
 
 ### 💻Tech Stack
 <p align="center">
