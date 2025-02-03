@@ -1,4 +1,4 @@
-#  React | Next | Vue | Laravel | Django | Python | Three.js | Figma | DevOps
+#  React | Next | Vue | Laravel | Django | Python | Three.js | DevOps
 
 
 ### 💻Tech Stack
