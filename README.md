@@ -1,4 +1,4 @@
-#  React | Next | Vue | Laravel | Node.js | Figma | Three.js | 3D | UX/UI
+#  React | Next | Vue | Laravel | Django | Python | Three.js | Figma
 
 
 ### 💻Tech Stack
